@@ -104,7 +104,7 @@ http://127.0.0.1/sqli-labs/Less-2/?id=1'
 
 回显列名：`id,username,password`
 
-![获取列名](step6.png)
+![获取列名](bcaeb3b94446d90fcc8bbcc83020d7b1.png)
 
 ### 4.7 获取数据（脱库）
 
