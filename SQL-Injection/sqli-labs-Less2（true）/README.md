@@ -94,7 +94,7 @@ http://127.0.0.1/sqli-labs/Less-2/?id=1'
 
 回显表名列表：`emails,referers,uagents,users`
 
-![获取表名](step5.png)
+![获取表名](d877596f6bb5d3c9ad26078fe8962564.png)
 
 ### 4.6 获取列名（以users表为例）
 
