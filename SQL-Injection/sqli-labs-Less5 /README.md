@@ -70,9 +70,9 @@ http://127.0.0.1/sqli-labs/Less-5/?id=1'
 
 报错信息显示：`~security`，成功获取数据库名 `security`。
 
-> **updatexml() 函数**：`updatexml(xml_target, xpath_expr, new_xml)` 用于更新XML内容。当第二个参数不是合法的XPath表达式时，MySQL会报错并将错误内容回显出来。`concat(0x7e, database())` 将 `~` 与库名拼接，让传入的XPath表达式非法从而触发报错。
+**updatexml() 函数**：`updatexml(xml_target, xpath_expr, new_xml)` 用于更新XML内容。当第二个参数不是合法的XPath表达式时，MySQL会报错并将错误内容回显出来。`concat(0x7e, database())` 将 `~` 与库名拼接，让传入的XPath表达式非法从而触发报错。
 
-> **0x7e**：十六进制，代表 `~` 波浪号，用于触发非法XPATH路径报错。
+**0x7e**：十六进制，代表 `~` 波浪号，用于触发非法XPATH路径报错。
 
 ![获取数据库名](step3.png)
 
