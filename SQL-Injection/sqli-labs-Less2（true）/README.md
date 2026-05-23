@@ -118,7 +118,7 @@ Dumb:Dumb, Angelina:I-kill-you, Dummy:p@ssword, secure:crappy, stupid:stupidity,
 superman:genious, batman:mob!le, admin:admin, admin1:admin1, admin2:admin2,
 admin3:admin3, dhakkan:dumbo, admin4:admin4
 
-![获取数据](step7.png)
+![获取数据](f164604f8ed8fdf1ce2fd62255c6bc14.png)
 
 
 ## 五、漏洞原理分析
