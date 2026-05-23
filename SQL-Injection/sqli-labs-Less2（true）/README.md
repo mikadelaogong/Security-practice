@@ -84,7 +84,7 @@ http://127.0.0.1/sqli-labs/Less-2/?id=1'
 
 回显当前数据库名：`security`
 
-![获取数据库名](step4.png)
+![获取数据库名](25a4ed126a44f3c461027cf6cabfd71e.png)
 
 ### 4.5 获取所有表名
 
